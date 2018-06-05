@@ -8,6 +8,7 @@ export default {
   enableJoinBeforeHost: 'Enable join before Host',
   conferenceCommands: 'Conference Commands',
   inviteWithGCalendar: 'Invite with Google Calendar',
+  inviteWithO365Calendar: 'Invite with Office 365 Calendar',
   inviteWithText: 'Invite with Text',
   joinAsHost: 'Launch Conference',
   internationalNumber: 'International Dial-in Numbers:',

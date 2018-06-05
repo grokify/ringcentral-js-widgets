@@ -15,6 +15,7 @@ export default {
   enableJoinBeforeHost: 'ホストより前の参加を可能にする',
   conferenceCommands: '会議コマンド',
   inviteWithGCalendar: 'Googleカレンダーを使用して招待',
+  inviteWithO365Calendar: 'Office 365カレンダーを使用して招待',
   joinAsHost: '会議を起動',
   internationalNumber: '国際ダイヤルイン番号\uFF1A',
 };
@@ -28,6 +29,7 @@ export default {
 // @key: @#@"enableJoinBeforeHost"@#@ @source: @#@"Enable join before Host"@#@
 // @key: @#@"conferenceCommands"@#@ @source: @#@"Conference Commands"@#@
 // @key: @#@"inviteWithGCalendar"@#@ @source: @#@"Invite with Google Calendar"@#@
+// @key: @#@"inviteWithO365Calendar"@#@ @source: @#@"Invite with Office 365 Calendar"@#@
 // @key: @#@"inviteWithText"@#@ @source: @#@"Invite with Text"@#@
 // @key: @#@"joinAsHost"@#@ @source: @#@"Launch Conference"@#@
 // @key: @#@"internationalNumber"@#@ @source: @#@"International Dial-in Numbers:"@#@

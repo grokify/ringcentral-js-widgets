@@ -15,6 +15,7 @@ export default {
   enableJoinBeforeHost: 'Beitritt vor Host ermöglichen',
   conferenceCommands: 'Konferenzbefehle',
   inviteWithGCalendar: 'Über Google Kalender einladen',
+  inviteWithO365Calendar: 'Über Office 365 Kalender einladen',
   joinAsHost: 'Konferenz beginnen',
   internationalNumber: 'Internationale Einwahlnummern:',
 };
@@ -28,6 +29,7 @@ export default {
 // @key: @#@"enableJoinBeforeHost"@#@ @source: @#@"Enable join before Host"@#@
 // @key: @#@"conferenceCommands"@#@ @source: @#@"Conference Commands"@#@
 // @key: @#@"inviteWithGCalendar"@#@ @source: @#@"Invite with Google Calendar"@#@
+// @key: @#@"inviteWithO365Calendar"@#@ @source: @#@"Invite with Office 365 Calendar"@#@
 // @key: @#@"inviteWithText"@#@ @source: @#@"Invite with Text"@#@
 // @key: @#@"joinAsHost"@#@ @source: @#@"Launch Conference"@#@
 // @key: @#@"internationalNumber"@#@ @source: @#@"International Dial-in Numbers:"@#@
